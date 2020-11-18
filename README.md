@@ -21,8 +21,9 @@ Please enter [R6Stats](https://r6stats.com/)'s discord and get the API key indiv
 include("path/R6StatsAPI.php");
 ?>
 ```
-を書き込みます。
-2,  Edit in R6StatsAPI.php
+を書き込みます。 
+
+2,  R6StatsAPI.phpを編集します
 ```php
 <?php
     const APIKEY="";//APIキーを貼り付けてください
@@ -34,15 +35,17 @@ include("path/R6StatsAPI.php");
 ```
 
 ### 英語 - English
-1, Move R6StatsAPI.php to your working folder.
+1, Move R6StatsAPI.php to your working folder. 
+
 2,  Write 
 ```php
 <?php
 include("path/R6StatsAPI.php");
 ?>
 ```
- in the html header.
- 3,  Edit in R6StatsAPI.php
+in the html header. 
+
+3,  Edit in R6StatsAPI.php
 ```php
 <?php
     const APIKEY="";//Paste the API key.
